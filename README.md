@@ -791,9 +791,13 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](../Home.png)
-![alt text](../Menu.png)
-![alt text](<../contact us.png>)
-![alt text](../Administration.png)
+![alt text](webpro7/softapp/Home.png)
+
+![alt text](webpro7/softapp/Menu.png)
+
+![alt text](webpro7/softapp/Administration.png)
+
+![alt text](<webpro7/softapp/contact us.png>)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
