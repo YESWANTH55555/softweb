@@ -791,14 +791,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
-![alt text](webpro7/softapp/static/Home.png)
-
-![alt text](webpro7/softapp/static/Menu.png)
-
-![alt text](../Administration.png)
-
+![alt text](../Home.png)
+![alt text](../Menu.png)
 ![alt text](<../contact us.png>)
-
+![alt text](../Administration.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
